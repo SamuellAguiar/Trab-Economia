@@ -51,6 +51,7 @@ Gabriel Roberto Cândido Nunes <br>
 <a href="https://github.com/SamuellAguiar">Samuell Carlos de Oliveira Aguiar</a> <br>
 
 Yuri Lima Ribeiro <br>
+
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato com os autores.
 
     Agradecimentos
