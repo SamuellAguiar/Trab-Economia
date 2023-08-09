@@ -1,5 +1,5 @@
 body {
-    background-image: url(/fundo.jpg);
+    background-image: url(fundo.jpg);
     background-size: contain;
 }
 
@@ -77,6 +77,48 @@ section {
     text-align: center;
 }
 
-.buceta{
-    text-align: center;
+a, a:hover{
+    color: #000000;
 }
+
+a:hover{
+    color: #f2f2f2;
+}
+
+.Logo {
+    height: 40px; /* Ajuste a altura conforme necessário */
+    margin: 10px 20px;
+}
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.Navbar-Itens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.Navbar-Item {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-left: 0 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.Navbar-Item:not(:last-child) {
+    margin-right: 10px; /* Adiciona um espaço entre os botões */
+}
+
+.Navbar-Item:hover {
+    background-color: #333;
+    color: white;
+}
+
