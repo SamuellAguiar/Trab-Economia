@@ -1,0 +1,82 @@
+body {
+    background-image: url(/fundo.jpg);
+    background-size: contain;
+}
+
+.Conteudo_primario_Titulo {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    color: #14142B;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.3rem;
+    font-weight: 600;
+    color: #14142B;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #262338
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #4E4B66;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+blockquote,
+blockquote::before {
+    border-left: 4px solid #4700AB;
+    padding: 1rem;
+    margin: 1.5rem;
+    font-style: italic;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+section {
+    margin-left: 6rem;
+    margin-right: 6rem;
+    padding-bottom: 3rem;
+}
+
+.About-me {
+    text-align: center;
+}
+
+.section {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+
+.item {
+    padding: 10px;
+    width: 30%;
+}
+
+.Alone{
+    text-align: center;
+}
+
+.buceta{
+    text-align: center;
+}
