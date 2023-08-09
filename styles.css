@@ -1,6 +1,10 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-image: url(fundo.jpg);
-    background-size: contain;
+    background-size: cover;
 }
 
 .Conteudo_primario_Titulo {
@@ -73,24 +77,28 @@ section {
     width: 30%;
 }
 
-.Alone{
+.Alone {
     text-align: center;
 }
 
-a, a:hover{
+a{
     color: #000000;
 }
 
-a:hover{
-    color: #f2f2f2;
+a:hover {
+    color: #333;
 }
 
 .Logo {
-    height: 40px; /* Ajuste a altura conforme necessário */
+    height: 40px;
+    /* Ajuste a altura conforme necessário */
     margin: 10px 20px;
 }
 
 .Navbar {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #4E4B66;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -109,16 +117,15 @@ a:hover{
     text-decoration: none;
     padding: 10px 15px;
     margin-left: 0 5px;
-    border: 1px solid #333;
     border-radius: 5px;
 }
 
 .Navbar-Item:not(:last-child) {
-    margin-right: 10px; /* Adiciona um espaço entre os botões */
+    margin-right: 10px;
+    /* Adiciona um espaço entre os botões */
 }
 
 .Navbar-Item:hover {
     background-color: #333;
     color: white;
 }
-
