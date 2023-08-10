@@ -48,9 +48,10 @@ Este projeto está licenciado sob a MIT License, o que significa que você pode 
      Autores
 Gabriel Roberto Cândido Nunes <br>
 
-Samuell Carlos de Oliveira Aguiar <br>
+<a href="https://github.com/SamuellAguiar">Samuell Carlos de Oliveira Aguiar</a> <br>
 
 Yuri Lima Ribeiro <br>
+
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato com os autores.
 
     Agradecimentos
