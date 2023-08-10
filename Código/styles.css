@@ -3,8 +3,7 @@ html {
 }
 
 body {
-    background-image: url(/Trab-Economia/Utilizáveis/fundo.jpg);
-    background-size: cover;
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
 }
 
 .Conteudo_primario_Titulo {
@@ -81,7 +80,7 @@ section {
     text-align: center;
 }
 
-a{
+a {
     color: #000000;
 }
 
@@ -91,7 +90,6 @@ a:hover {
 
 .Logo {
     height: 40px;
-    /* Ajuste a altura conforme necessário */
     margin: 10px 20px;
 }
 
@@ -122,10 +120,55 @@ a:hover {
 
 .Navbar-Item:not(:last-child) {
     margin-right: 10px;
-    /* Adiciona um espaço entre os botões */
 }
 
 .Navbar-Item:hover {
     background-color: #333;
     color: white;
+}
+
+/*Modo responsivo:*/
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+
+    section {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .Logo {
+        height: 30px;
+        margin: 10px 10px;
+    }
+
+    .Navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .Navbar-Itens {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .Navbar-Item {
+        margin: 5px 0;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    section {
+        margin-left: 4rem;
+        margin-right: 4rem;
+    }
+}
+
+@media screen and (min-width: 1025px) {
+    section {
+        margin-left: 6rem;
+        margin-right: 6rem;
+    }
 }
