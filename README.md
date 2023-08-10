@@ -1,6 +1,6 @@
 # Trabalho de Economia
 
-## Confira o resultado do projeto: <a href"https://main--storied-nasturtium-4b65f9.netlify.app/">Aqui</a> 
+## Confira o resultado do projeto: <a href="https://main--storied-nasturtium-4b65f9.netlify.app/">Aqui</a> 
 
     Descrição
 Este projeto é um website educacional desenvolvido em HTML, CSS e JavaScript, dedicado a abordar os conceitos fundamentais de economia, mais especificamente as leis de oferta e demanda, bem como o conceito de trade-offs.
