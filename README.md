@@ -2,7 +2,6 @@
 
 Bem-vindo ao repositório do nosso EconoMinds, um website dedicado ao estudo de oferta e demanda, criado como parte do nosso trabalho na disciplina de Economia. Este projeto tem como objetivo fornecer uma compreensão clara e concisa dos conceitos fundamentais de oferta e demanda, além de sua importância no contexto econômico.
 
-<br>
 ## Nosso Site
 
 Nosso website abrange os seguintes tópicos principais:
