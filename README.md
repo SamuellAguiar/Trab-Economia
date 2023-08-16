@@ -22,7 +22,7 @@ Nosso website abrange os seguintes tópicos principais:
 
 **Clone o Repositório:** No seu terminal, use o comando abaixo para clonar este repositório em sua máquina local.
 
-# git clone https://github.com/SamuellAguiar/Trab-Economia.git
+##### git clone https://github.com/SamuellAguiar/Trab-Economia.git
 
 **Acesse a Pasta:** Navegue para a pasta do repositório clonado usando o comando cd.<br>
 
