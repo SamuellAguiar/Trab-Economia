@@ -21,8 +21,6 @@ Nosso website abrange os seguintes tópicos principais:
 ## Como Visualizar o Website
 *Para visualizar o conteúdo completo do nosso website sobre oferta e demanda, siga estas etapas simples:*
 
-
-
 **Clone o Repositório:** No seu terminal, use o comando abaixo para clonar este repositório em sua máquina local.<br>
 
 **Acesse a Pasta:** Navegue para a pasta do repositório clonado usando o comando cd.<br>
