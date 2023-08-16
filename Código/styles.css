@@ -2,8 +2,8 @@ html {
     scroll-behavior: smooth;
 }
 
-body{
-    background: f2f2f2;
+body {
+    background-color: #9be3c8;
 }
 
 .Conteudo_primario_Titulo {
@@ -58,10 +58,6 @@ section {
     padding-bottom: 3rem;
 }
 
-.About-me {
-    text-align: center;
-}
-
 .section {
     padding: 20px;
     display: flex;
@@ -74,6 +70,14 @@ section {
 .item {
     padding: 10px;
     width: 30%;
+}
+
+li {
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #4E4B66;
+
 }
 
 .Alone {
@@ -180,16 +184,17 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Isso centralizará verticalmente em relação à altura da janela */
-  }
+    height: 100vh;
+    /* Isso centralizará verticalmente em relação à altura da janela */
+}
 
-  .button{
+.button {
     padding: 1rem;
     border: none;
     border-radius: 8px;
-  }
+}
 
-  .button:hover{
+.button:hover {
     background-color: #333;
     color: white;
-  }
+}
