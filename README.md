@@ -1,11 +1,9 @@
-<h2>Trabalho de Economia</h2>
+    ## EconoMinds
 
-<p>
-Bem-vindo ao repositório do nosso website dedicado ao estudo de oferta e demanda, criado como parte do nosso trabalho na disciplina de Economia. Este projeto tem como objetivo fornecer uma compreensão clara e concisa dos conceitos fundamentais de oferta e demanda, além de sua importância no contexto econômico.
-</p>
+Bem-vindo ao repositório do nosso EconoMinds, um website dedicado ao estudo de oferta e demanda, criado como parte do nosso trabalho na disciplina de Economia. Este projeto tem como objetivo fornecer uma compreensão clara e concisa dos conceitos fundamentais de oferta e demanda, além de sua importância no contexto econômico.
 
-<p>
-<h4>Visão Geral do Website</h4>
+<br>
+    ## Visão Geral do Website
 Nosso website abrange os seguintes tópicos principais:
 
 **Introdução à Oferta e Demanda:** Um resumo dos conceitos básicos de oferta e demanda, incluindo definições e sua relação com a economia.
@@ -17,12 +15,12 @@ Nosso website abrange os seguintes tópicos principais:
 **Fatores que Influenciam a Oferta e Demanda:** Discussão sobre os diversos fatores que podem alterar os níveis de oferta e demanda em um mercado.
 
 **Estudos de Caso:** Apresentação de exemplos do mundo real que ilustram como mudanças na oferta e demanda afetam os preços e as quantidades negociadas.
-</p>
 
 <br>
-<p>
-  Para visualizar o conteúdo completo do nosso website sobre oferta e demanda, siga estas etapas simples:
-</p>
+
+    ##Como Visualizar o Website
+*Para visualizar o conteúdo completo do nosso website sobre oferta e demanda, siga estas etapas simples:*
+
 
 
 **Clone o Repositório:** No seu terminal, use o comando abaixo para clonar este repositório em sua máquina local.<br>
