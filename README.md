@@ -4,6 +4,7 @@ Bem-vindo ao repositório do nosso EconoMinds, um website dedicado ao estudo de 
 
 <br>
 ## Nosso website abrange os seguintes tópicos principais:
+
 **Introdução à Oferta e Demanda:** Um resumo dos conceitos básicos de oferta e demanda, incluindo definições e sua relação com a economia.
 
 **Leis da Oferta e Demanda:** Explicação das leis que regem o comportamento da oferta e demanda, incluindo a Lei da Demanda e a Lei da Oferta.
