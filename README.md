@@ -1,26 +1,33 @@
-# Trabalho de Economia
+## EconoMinds
+
+Bem-vindo ao repositório do nosso EconoMinds, um website dedicado ao estudo de oferta e demanda, criado como parte do nosso trabalho na disciplina de Economia. Este projeto tem como objetivo fornecer uma compreensão clara e concisa dos conceitos fundamentais de oferta e demanda, além de sua importância no contexto econômico.
+
+## Nosso Site
+
+Nosso website abrange os seguintes tópicos principais:
+
+**Introdução à Oferta e Demanda:** Um resumo dos conceitos básicos de oferta e demanda, incluindo definições e sua relação com a economia.
+
+**Leis da Oferta e Demanda:** Explicação das leis que regem o comportamento da oferta e demanda, incluindo a Lei da Demanda e a Lei da Oferta.
+
+**Equilíbrio de Mercado:** Detalhamento sobre como o equilíbrio de mercado é alcançado quando a oferta e a demanda se igualam.
+
+**Fatores que Influenciam a Oferta e Demanda:** Discussão sobre os diversos fatores que podem alterar os níveis de oferta e demanda em um mercado.
+
+**Estudos de Caso:** Apresentação de exemplos do mundo real que ilustram como mudanças na oferta e demanda afetam os preços e as quantidades negociadas.
 
 
+## Como Visualizar o Website
+*Para visualizar o conteúdo completo do nosso website sobre oferta e demanda, siga estas etapas simples:*
 
-Descrição:<br>
-Este projeto é um website educacional desenvolvido em HTML e CSS dedicado a abordar os conceitos fundamentais de economia, mais especificamente as leis de oferta e demanda.
+**Clone o Repositório:** No seu terminal, use o comando abaixo para clonar este repositório em sua máquina local.
 
-Objetivo:<br>
-O objetivo deste trabalho é fornecer um recurso interativo e informativo para ajudar os estudantes e interessados em economia a compreenderem os princípios básicos que regem o mercado e as decisões econômicas. Através de explicações claras, gráficos e exemplos práticos, o website visa simplificar conceitos muitas vezes complexos, tornando-os mais acessíveis a todos.
+#### git clone https://github.com/SamuellAguiar/Trab-Economia.git
 
-Conteúdo:<br>
-O website fala sobre as Leis de Oferta e Demanda
+**Acesse a Pasta:** Navegue para a pasta do repositório clonado usando o comando cd.<br>
 
-Autores:<br>
-Gabriel Roberto Cândido Nunes <br>
+**Abra o Arquivo HTML:** Dentro da pasta, você encontrará o arquivo HTML principal do website. Abra-o em qualquer navegador moderno para explorar todo o conteúdo.<br>
 
-<a href="https://github.com/SamuellAguiar">Samuell Carlos de Oliveira Aguiar</a> <br>
+**Navegue pelos Tópicos:** Use a barra de navegação no topo da página para acessar os diferentes tópicos sobre oferta e demanda. Clique em cada tópico para ler mais detalhes e exemplos.<br>
 
-Yuri Lima Ribeiro <br>
-
-Se você tiver alguma dúvida ou precisar de mais informações, entre em contato com os autores.
-
-Agradecimentos:<br>
-Agradecemos a todos os professores, colegas e fontes de referência que ajudaram na construção deste trabalho, fornecendo insights e conhecimentos valiosos.
-
-Esperamos que este website seja útil e contribua para o seu aprendizado em economia!
+**Estudos de Caso:** Nas seções relevantes, você encontrará estudos de caso. Clique neles para entender como os conceitos teóricos se aplicam a cenários reais.<br>
