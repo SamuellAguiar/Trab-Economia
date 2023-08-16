@@ -16,7 +16,6 @@ Nosso website abrange os seguintes tópicos principais:
 
 **Estudos de Caso:** Apresentação de exemplos do mundo real que ilustram como mudanças na oferta e demanda afetam os preços e as quantidades negociadas.
 
-<br>
 
 ## Como Visualizar o Website
 *Para visualizar o conteúdo completo do nosso website sobre oferta e demanda, siga estas etapas simples:*
