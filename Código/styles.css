@@ -44,7 +44,7 @@ a {
 
 blockquote,
 blockquote::before {
-    border-left: 4px solid #4700AB;
+    border-left: 4px solid #067306;
     padding: 1rem;
     margin: 1.5rem;
     font-style: italic;
@@ -130,7 +130,7 @@ a:hover {
 }
 
 .Navbar-Item:hover {
-    background-color: #333;
+    background-color: #067306;
     color: white;
 }
 
@@ -189,12 +189,13 @@ a:hover {
 }
 
 .button {
+    font-family: 'Poppins', sans-serif;
     padding: 1rem;
     border: none;
     border-radius: 8px;
 }
 
 .button:hover {
-    background-color: #333;
+    background-color: #067306;
     color: white;
 }
